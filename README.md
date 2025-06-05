@@ -40,4 +40,4 @@ The mask is a black and white image that will be used to determine which pixels 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNitaki-dev%2Fpixel-sorter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-> If you have any other questions or requests, feel free to contact me on discord `@nitaki.`
+> If you have any other questions or requests, feel free to contact me on discord `@auriaaaaa`
